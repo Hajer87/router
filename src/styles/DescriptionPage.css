@@ -1,0 +1,29 @@
+
+.Poster{
+border-radius: 50px;
+height:500px;
+}
+.Poster:hover {
+	transform: scale(1);
+	box-shadow: 0 5px 10px -12.125px rgba(0, 0, 0, 0.2);}
+.description{
+      display: grid;
+      grid-template-columns: 30% 70%;
+      gap: 100 px;
+      margin:50px;
+      padding: 50px;
+      color: white;
+      font-weight: bold;
+      letter-spacing: 10 px;
+      font-family: 'Pangolin', cursive;
+      font-size: x-large;
+      border:crimson;
+      line-height: 2.5;
+}
+
+     
+.player{
+     border-style: groove;
+      box-shadow: 12px 12px 2px 1px rgba(30, 105, 243, 0.2);
+
+}
